@@ -1,6 +1,6 @@
 # XYZ Dojo Engagement with Liatrio
 
-TODO - Add an introduction here
+The Dojo is an immersive hands-on learning environment where software teams partner with experienced coaches to deliver high quality working software at high-velocty following industry best-practices. The Dojo focuses on demonstrating and putting into practice modern software delivery techniques and pricesses and applying them to the specific issues encountered by the team. This helps empower the team to move at higher velocity with higher quality. 
 
 ## Table of contents
 
